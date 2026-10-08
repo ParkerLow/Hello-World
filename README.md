@@ -22,8 +22,8 @@ The tools used for this project include:
 This repository contains:
 
 1. README.md
-2. A sample coursework file
-3. A sample Python or project file
+2. A relational Schema draw.io file
+3. A Python file
 
 ## How to Run the Program
 
